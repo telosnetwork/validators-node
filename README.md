@@ -20,7 +20,7 @@ yarn add @telosnetwork/validator-checks
 
 To use this project to run the update script:
 ```
-git clone [https://github.com/CALEOS/validators-node.git](https://github.com/telosnetwork/validators-node.git)
+git clone https://github.com/telosnetwork/validators-node.git
 
 cd validators-node
 
