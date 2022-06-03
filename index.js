@@ -18,7 +18,7 @@ const run = async (bucketParams) => {
     const bucketParams = {
       Bucket: 'telos-producer-validation',
       ContentType: 'application/json', 
-      Key: `test-data-${Date.now()}`,   
+      Key: `data-${Date.now()}`,   
       Body: producerDataJson
     };
 
